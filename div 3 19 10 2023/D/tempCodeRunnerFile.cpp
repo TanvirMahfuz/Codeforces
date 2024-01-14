@@ -1,0 +1,1 @@
+indb[i]=binarySearch(brr,n,sb[(n-i)-1]);
